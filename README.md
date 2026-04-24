@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Express**
 - 💬 Ask me about **Javascript**
-- 📫 How to reach me **fikri.akbar1p@gmail.com**
 - ⚡ Fun fact **Coffee is basically my co-developer**
 
 <h4 align="left">Languages and Tools:</h3>
