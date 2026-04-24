@@ -1,12 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fikri Akbar Pratama</h1>
+<h3 align="center">Growing with code, learning, and building with Javascript.</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20views&color=0e75b6&style=flat" alt="fkriarp" /> 
+</p>
+
+- 🌱 I’m currently learning **Express**
+- 💬 Ask me about **Javascript**
+- 📫 How to reach me **fikri.akbar1p@gmail.com**
+- ⚡ Fun fact **Coffee is basically my co-developer**
+
+<h4 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+</p>
 
 
-**mihaeinc/mihaeinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on web developer
-- 🌱 I’m currently learning express.js
-- 💬 Ask me about javascript
-- 📫 How to reach me: fikri.akbar1p@gmail.com
-- ⚡ Fun fact: basicly coffe is my co-developer
+<h4 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fkriarp" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="fkriarp" /></a>
+<a href="https://instagram.com/fkriarp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="fkriarp" /></a>
+</p>
