@@ -1,28 +1,93 @@
-<h1 align="center">Hi 👋, I'm Fikri Akbar Pratama</h1>
-<h3 align="center">Growing with code, learning, and building with Javascript.</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20views&color=0e75b6&style=flat" alt="fkriarp" /> 
-</p>
+```
+  _______ __   __ _____  _____
+ |  _____|\  \/  /|  _ \|_   _|
+ | |___    \    / | |_) | | |
+ |  ___|   /    \ |    /  | |
+ | |      /  /\  \| |\ \  | |
+ |_|     /__/  \__\_| \_\ |_|
+```
 
-- 🌱 I’m currently learning **Express**
-- 💬 Ask me about **Javascript**
-- ⚡ Fun fact **Coffee is basically my co-developer**
+</div>
 
-<h4 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-</p>
+<div align="center">
 
+# Fikri Akbar Pratama
 
-<h4 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fkriarp" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="fkriarp" /></a>
-<a href="https://instagram.com/fkriarp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="fkriarp" /></a>
-</p>
+**Full-stack learner · JavaScript enthusiast · Building things one commit at a time**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fkriarp&color=0d1117&style=flat-square&label=profile+views)](https://github.com/fkriarp)
+
+</div>
+
+---
+
+### About
+
+```ts
+const fikri = {
+  focus:    ["JavaScript", "Node.js", "Express", "Next.js"],
+  building: "clean, scalable web applications",
+  learning: "backend architecture & REST APIs",
+  fact:     "coffee is basically my co-developer ☕",
+};
+```
+
+---
+
+### Tech Stack
+
+<div align="left">
+
+**Frontend**
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Backend**
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Database & Tools**
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=fkriarp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkriarp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
+
+</div>
+
+---
+
+### Connect
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fkriarp)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fkriarp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fkriarp)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
