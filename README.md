@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Fikri Akbar Pratama 👋
 
 ### Fullstack Developer • Building modern web applications
@@ -8,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20Views&color=0f172a&style=flat" />
 </p>
 
-> *"Code. Learn. Build. Repeat."*
-
-</div>
+---
 
 ### About
 
@@ -40,6 +36,5 @@ const fikri = {
 <a href="https://instagram.com/fkriarp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="fkriarp" /></a>
 </p>
 
-<div align="center">
-"First, solve the problem. Then, write the code."
-</div>
+> *"First, solve the problem. Then, write the code."*
+
