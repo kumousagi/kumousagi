@@ -1,21 +1,19 @@
 # Hi, I'm Fikri Akbar Pratama 👋
 
-### Fullstack Developer • Building modern web applications
+### Fullstack Developer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20Views&color=0f172a&style=flat" />
 </p>
 
----
-
 ### About
 
 ```tsx
 const fikri = {
-  focus:    ["JavaScript", "Node.js", "Express", "Next.js"],
-  building: "clean, scalable web applications",
-  learning: "backend architecture & REST APIs",
-  fact:     "coffee is basically my co-developer ☕",
+  focus: ["JavaScript", "Node.js", "Express", "Next.js"],
+  learning: "backend development and system architecture",
+  building: "personal projects and web applications",
+  funFact: "still searching the missing semicolon",
 };
 ```
 
