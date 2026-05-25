@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Fikri Akbar Pratama</h1>
-<h3 align="center">"First, solve the problem. Then, write the code."</h3>
+<div align="center">
 
-Fikri Akbar Pratama
-Full-stack learner · JavaScript enthusiast · Building things one commit at a time
+# Hi, I'm Fikri Akbar Pratama 👋
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20views&color=0e75b6&style=flat" alt="fkriarp" /> 
+### Fullstack Developer • Building modern web applications
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20Views&color=0f172a&style=flat" />
 </p>
+
+> *"Code. Learn. Build. Repeat."*
+
+</div>
 
 ### About
 
