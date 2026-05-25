@@ -1,11 +1,5 @@
 # Hi, I'm Fikri Akbar Pratama 👋
 
-### Fullstack Developer
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20Views&color=0f172a&style=flat" />
-</p>
-
 ### About
 
 ```tsx
