@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fikri Akbar Pratama</h1>
 <h3 align="center">"First, solve the problem. Then, write the code."</h3>
 
+Fikri Akbar Pratama
+Full-stack learner · JavaScript enthusiast · Building things one commit at a time
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20views&color=0e75b6&style=flat" alt="fkriarp" /> 
 </p>
@@ -32,3 +35,7 @@ const fikri = {
 <a href="https://linkedin.com/in/fkriarp" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="fkriarp" /></a>
 <a href="https://instagram.com/fkriarp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="fkriarp" /></a>
 </p>
+
+<div align="center">
+"First, solve the problem. Then, write the code."
+</div>
