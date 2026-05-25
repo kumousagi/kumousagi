@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
