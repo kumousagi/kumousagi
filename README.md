@@ -1,93 +1,80 @@
 <div align="center">
 
-```
-  _______ __   __ _____  _____
- |  _____|\  \/  /|  _ \|_   _|
- | |___    \    / | |_) | | |
- |  ___|   /    \ |    /  | |
- | |      /  /\  \| |\ \  | |
- |_|     /__/  \__\_| \_\ |_|
-```
+# Hi, I'm Fikri Akbar Pratama 👋
 
-</div>
+### Fullstack Developer • Building modern web applications
 
-<div align="center">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20Views&color=0f172a&style=flat" />
+</p>
 
-# Fikri Akbar Pratama
-
-**Full-stack learner · JavaScript enthusiast · Building things one commit at a time**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=fkriarp&color=0d1117&style=flat-square&label=profile+views)](https://github.com/fkriarp)
+> *"Code. Learn. Build. Repeat."*
 
 </div>
 
 ---
 
-### About
+## 🚀 About Me
 
-```ts
-const fikri = {
-  focus:    ["JavaScript", "Node.js", "Express", "Next.js"],
-  building: "clean, scalable web applications",
-  learning: "backend architecture & REST APIs",
-  fact:     "coffee is basically my co-developer ☕",
-};
-```
+- 💻 Fullstack Developer from Indonesia
+- 🌱 Currently learning **Backend Engineering & System Design**
+- ⚡ Interested in **Web Development, Software Engineering, and Cybersecurity**
+- 🛠️ Building projects with modern JavaScript ecosystems
 
 ---
 
-### Tech Stack
+## 🧰 Tech Stack
 
 <div align="left">
 
-**Frontend**
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Backend**
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Database & Tools**
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=fkriarp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkriarp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fkriarp&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkriarp&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-### Connect
+## 🌐 Connect With Me
 
-<div align="left">
+<p align="left">
+  <a href="https://linkedin.com/in/fkriarp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fkriarp)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fkriarp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fkriarp)
+  <a href="https://instagram.com/fkriarp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-</div>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+### Thanks for visiting ✨
 
 </div>
