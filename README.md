@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fikri Akbar Pratama</h1>
-<h3 align="center">Growing with code, learning, and building with Javascript.</h3>
+<h3 align="center">"First, solve the problem. Then, write the code."</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20views&color=0e75b6&style=flat" alt="fkriarp" /> 
 </p>
 
-- 🌱 I’m currently learning **Express**
-- 💬 Ask me about **Javascript**
-- ⚡ Fun fact **Coffee is basically my co-developer**
+About
+tsconst fikri = {
+  focus:    ["JavaScript", "Node.js", "Express", "Next.js"],
+  building: "clean, scalable web applications",
+  learning: "backend architecture & REST APIs",
+  fact:     "coffee is basically my co-developer ☕",
+};
 
 <h4 align="left">Tech Stack</h4>
 
