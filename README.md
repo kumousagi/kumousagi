@@ -5,13 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=fkriarp&label=Profile%20views&color=0e75b6&style=flat" alt="fkriarp" /> 
 </p>
 
-About
-tsconst fikri = {
+### About
+
+```tsx
+const fikri = {
   focus:    ["JavaScript", "Node.js", "Express", "Next.js"],
   building: "clean, scalable web applications",
   learning: "backend architecture & REST APIs",
   fact:     "coffee is basically my co-developer ☕",
 };
+```
 
 <h4 align="left">Tech Stack</h4>
 
