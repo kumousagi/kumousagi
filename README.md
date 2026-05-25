@@ -13,7 +13,7 @@ const fikri = {
   focus: ["JavaScript", "Node.js", "Express", "Next.js"],
   learning: "backend development and system architecture",
   building: "personal projects and web applications",
-  funFact: "still searching the missing semicolon",
+  funFact: "coffee is basically my co-developer ☕",
 };
 ```
 
