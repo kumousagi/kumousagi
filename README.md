@@ -1,13 +1,15 @@
 # Hi, I'm Fikri Akbar Pratama 👋
 
-### About
+Software Developer passionate about building robust web applications and scalable backend systems.
 
-```tsx
+### 📌 About Me
+
+```typescript
 const fikri = {
-  focus: ["JavaScript", "Node.js", "Express", "Next.js"],
-  learning: "backend development and system architecture",
-  building: "personal projects and web applications",
-  funFact: "coffee is basically my co-developer ☕",
+  focus: ["JavaScript", "TypeScript", "Node.js", "Next.js"],
+  learning: "Backend Architecture & Distributed Systems",
+  building: "Full-stack web applications & open-source tools",
+  funFact: "Coffee is basically my co-developer ☕",
 };
 ```
 
