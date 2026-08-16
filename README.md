@@ -22,7 +22,7 @@ const fikri = {
 </p>
 
 
-<h4 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/fkriarp" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="fkriarp" /></a>
 <a href="https://instagram.com/fkriarp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="fkriarp" /></a>
