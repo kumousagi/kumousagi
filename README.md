@@ -1,5 +1,3 @@
-# Hi, I'm Fikri Akbar Pratama 👋
-
 Software Developer passionate about building robust web applications and scalable backend systems.
 
 ### 📌 About Me
